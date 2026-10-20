@@ -1,0 +1,2 @@
+# CAUSAL-X-The-Butterfly-Effect-Engine-AI-Powered-Supply-Chain-Risk-Prediction-and-What-If-Analysis
+Developed an end-to-end data science project combining machine learning, exploratory data analysis, dependency graph modeling, and scenario simulation to analyze supply-chain disruptions. Compared regression models, evaluated feature importance, and simulated how changes in supplier reliability, weather, transportation capacity,
